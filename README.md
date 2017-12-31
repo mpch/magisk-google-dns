@@ -1,5 +1,5 @@
 ## Description
-This module makes your device to use Google's DNS servers (8.8.8.8) instead of the provided by the ISP or Access Point.
+This module makes your device to use OpenDNS servers (208.67.222.222) instead of the provided by the ISP or Access Point.
 
 #### Current Version
 2.1
