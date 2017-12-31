@@ -7,4 +7,4 @@ MODDIR=${0%/*}
 # More info in the main Magisk thread
 
 iptables -t nat -A OUTPUT -p tcp --dport 53 -j DNAT --to-destination 208.67.222.222:53
-iptables -t nat -A OUTPUT -p udp --dport 53 -j DNAT --to-destination 208.67.220.220:53
+iptables -t nat -A OUTPUT -p udp --dport 53 -j DNAT --to-destination 208.67.222.222:53
